@@ -11,3 +11,5 @@
 2. pipes.sh
 3. pfetch
 4. btop (yes i dont use it regorarly)
+
+NOTE: I haven't given config files of things I have not edited or edited very less
